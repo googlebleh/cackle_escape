@@ -13,14 +13,7 @@ dependencies = [
 
 [[package]]
 name = "anyhow"
-version = "1.0.75"
-
-[[package]]
-name = "cackle_test"
 version = "0.1.0"
-dependencies = [
- "mylib",
-]
 
 [[package]]
 name = "memchr"
