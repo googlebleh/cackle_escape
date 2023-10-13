@@ -1,0 +1,14 @@
+[common]
+version = 2
+
+[pkg.anyhow]
+allow_unsafe = true
+
+[pkg.memchr]
+allow_unsafe = true
+
+[pkg.aho-corasick]
+allow_unsafe = true
+
+[pkg.regex-automata]
+allow_unsafe = true
